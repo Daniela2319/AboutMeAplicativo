@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Daniela Velter</string>
+    <string name="bio"> Olá, meu nome é Daniela.
+    \n\n Eu Amo Tecnologia.
+    \n\nPorque ela transforma as vidas das pessoas para melhor, desde aplicativos e web.
+    \nonde você tem a facilidade, agilidade de fazer pagamentos seja em bancos, lojas, mercados e entre outros.
+    \nE a tecnologia vem ajudando as crianças nas alfabetização e na educação.
+    \n</string>
+    <string name="apelido">Qual é seu Apelido?</string>
+</resources>
